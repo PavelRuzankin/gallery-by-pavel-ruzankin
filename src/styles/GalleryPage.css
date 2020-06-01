@@ -1,0 +1,13 @@
+.GalleryPage{
+    margin-top: 50px;
+}
+.GalleryPage__wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.GalleryPage__wrapper div{
+    margin: 10px;
+}
+

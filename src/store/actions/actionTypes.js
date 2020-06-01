@@ -1,0 +1,8 @@
+export const SET_SCROLL = "SET_SCROLL"
+export const SET_DIRECTION = "SET_DIRECTION"
+export const SET_ACTIVE_IMAGE = "SET_ACTIVE_IMAGE"
+export const SET_NEXT_IMAGE = "SET_NEXT_IMAGE"
+export const TOGGLE_DELETE_MODE = "TOGGLE_DELETE_MODE"
+export const SET_FULL_iMAGES = "SET_FULL_iMAGES"
+export const SET_LOW_iMAGES = "SET_LOW_iMAGES"
+
